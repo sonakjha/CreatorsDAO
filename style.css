@@ -1,0 +1,105 @@
+body {
+position: absolute;
+width: 1440px;
+height: 1373px;
+left: 0px;
+top: 0px;
+
+/* Basic Purple */
+
+background: linear-gradient(90deg, #AA6FF6 0%, #660ED8 100%);
+}
+
+.hero-section {
+    /* Hero Text */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 548px;
+height: 346px;
+left: 447px;
+top: 234px;
+
+}
+
+.services {
+    
+width: 211px;
+height: 44px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+
+
+color: #F6F7F7;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.organization{
+    /* Organizational Structure */
+
+
+width: 416px;
+height: 44px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+
+
+color: #F8F2FF;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.FAQS{
+    /* FAQ */
+
+
+width: 68px;
+height: 44px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+
+
+color: #F8F2FF;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
